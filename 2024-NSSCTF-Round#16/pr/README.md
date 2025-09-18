@@ -5,8 +5,8 @@
 1.  **密钥生成**:
     * 选取了三个 512 位的素数：`prime_p`、`prime_q`、`prime_r`。
     * 构造了两个 RSA 模数 (modulus)：
-        * $n_1 = \text{prime\_p} \cdot \text{prime\_q}$
-        * $n_2 = \text{prime\_q} \cdot \text{prime\_r}$
+        * $n_1 = \text{prime_p} \cdot \text{prime_q}$
+        * $n_2 = \text{prime_q} \cdot \text{prime_r}$
     * 最关键的一点是，这两个模数 **共享一个公共的素数因子** `prime_q`。
     * 公钥指数 (public exponent) $e$ 是一个给定的常数 `31413537523`。
 
