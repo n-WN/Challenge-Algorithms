@@ -1,0 +1,9 @@
+{
+  "x_hex": "0xc8c0f5445357877b10979875868996bfd1b29476222dd04b0eaac6bf7b392339",
+  "signature": {
+    "r": "0x58b2149b6eb597e30d6adfdccdd63e0a9e7b27d1361907d790c54a7737928378",
+    "s": "0x0d2b2fbff0ec61ebaa61e0dc54f93d2ae04abfa554d9aafc6c8dc3fbbe5f4392",
+    "v": 1,
+    "sig_hex": "0x58b2149b6eb597e30d6adfdccdd63e0a9e7b27d1361907d790c54a77379283780d2b2fbff0ec61ebaa61e0dc54f93d2ae04abfa554d9aafc6c8dc3fbbe5f439201"
+  }
+}
